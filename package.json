@@ -1,0 +1,22 @@
+{
+  "name": "explore-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-transform-arrow-functions": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.4.0",
+    "@babel/polyfill": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/runtime": "^7.4.2",
+    "core-js": "^2.6.5"
+  }
+}
